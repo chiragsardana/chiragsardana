@@ -54,7 +54,7 @@ Computer Science post-graduate and GATE scholar with a strong academic backgroun
 
 ## 🎓 Education  
 **M.Tech in Computer Science**  
-JCDM College of Engineering, Sirsa (2023–2025)  
+JCDM College of Engineering, Sirsa (2024–2026)  
 GATE-qualified scholar | CGPA: 7.67/10
 
 **B.Tech in Computer Science**  
