@@ -1,8 +1,65 @@
-- 👋 Hi, I’m @chiragsardana
-- 👀 I’m interested in Website designing or app designing
-- 🌱 I’m currently learning Flutter for my upcoming Project
-- 💞️ I’m looking to collaborate on Website making using Java or Ios and Andriod app using Flutter Framework
-- 📫 You can reach to be my Linkedin Profile (Link is in the Profile Section)
+# Chirag Sardana
+
+**Location:** Sirsa, Haryana  
+**Phone:** +91-8684076590  
+**Email:** chiragsardana12@gmail.com  
+**LinkedIn:** [linkedin.com/in/chirag-sardana](https://www.linkedin.com/in/chirag-sardana)  
+**GitHub:** [github.com/chiragsardana](https://github.com/chiragsardana)
+
+---
+
+## 💼 Professional Summary  
+Computer Science post-graduate and GATE scholar with a strong academic background and hands-on experience in backend development. Proficient in Java, JavaScript, and SQL. Passionate about scalable, secure applications using Spring Boot and REST APIs.
+
+---
+
+## 🛠️ Technical Skills  
+- **Languages:** Java, JavaScript, SQL  
+- **Frameworks & Tools:** Spring Boot, JDBC, MySQL, Git, HTML/CSS, REST APIs  
+- **Concepts:** OOP, File I/O, Data Structures  
+- **Soft Skills:** Team Collaboration, Problem-Solving, Communication
+
+---
+
+## 🚀 Projects
+
+### 🔹 Restaurant Recommendation System  
+**Tech Stack:** Java, Spring Boot, MySQL, HTML/CSS  
+- Built a student-focused food recommendation web app  
+- Features include rating, reviews, cuisine filtering, and location search
+- Implemented user login, review/rating system using REST APIs
+- Managed relational data in MySQL with optimized SQL queries
+- [View Project](https://github.com/chiragsardana/exploria-revamped)
+
+---
+
+### 🔹 Reise – Car Pooling/Get Ride Platform  
+**Tech Stack:** Java, Spring Boot, MySQL, HTML/CSS  
+- Developed a ride-sharing app for students to offer/request rides within campus/local areas
+- Implemented core features: ride creation, search, matching, and notifications
+- Built secure login and ride history modules integrated with backend APIs
+- Optimized ride filtering with SQL query logic
+- [View Project](https://github.com/chiragsardana/reise-carpool)
+
+---
+
+### 🔹 File Security Manager  
+**Tech Stack:** Java  
+- Desktop application for converting readable text files into secure encoded format
+- Verified file existence, performed read/write using Java I/O
+- Enabled secure decryption to restore original content
+- Used basic custom logic to simulate encryption/decryption mechanisms
+- [View Project](https://github.com/chiragsardana/file-security)
+---
+
+## 🎓 Education  
+**M.Tech in Computer Science**  
+JCDM College of Engineering, Sirsa (2023–2025)  
+GATE-qualified scholar | CGPA: 7.67/10
+
+**B.Tech in Computer Science**  
+The NorthCap University, Gurugram (2019–2023)  
+CGPA: 9.28/10
 
 <!---
 chiragsardana/chiragsardana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
