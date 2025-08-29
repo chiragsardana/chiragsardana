@@ -55,7 +55,7 @@ Computer Science post-graduate and **GATE scholar**, with a strong academic back
 ## 🎓 Education  
 **M.Tech in Computer Science**  
 JCDM College of Engineering, Sirsa (2024–2026)  
-GATE-qualified scholar | CGPA: 7.67/10
+GATE-qualified scholar | SGPA: 8.17/10
 
 **B.Tech in Computer Science**  
 The NorthCap University, Gurugram (2019–2023)  
