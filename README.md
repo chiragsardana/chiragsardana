@@ -9,7 +9,7 @@
 ---
 
 ## 💼 Professional Summary  
-Computer Science post-graduate and GATE scholar with a strong academic background and hands-on experience in backend development. Proficient in Java, JavaScript, and SQL. Passionate about scalable, secure applications using Spring Boot and REST APIs.
+Computer Science post-graduate and GATE scholar, with a strong academic background and hands-on experience in backend development. UGC NET qualified (for Ph.D. admission), reflecting strong research aptitude and conceptual depth. Proficient in Java, Spring Boot, and SQL, with a passion for building scalable web applications. Skilled in REST API development and solving real-world problems through efficient and secure code.
 
 ---
 
